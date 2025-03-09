@@ -5,13 +5,13 @@ import { Link } from 'react-router-dom';
 const Footer = () => {
   const links = {
     'لینک‌های مهم': [
-      { name: 'چگونه نویسنده راشا شویم؟', href: '/' },
+      { name: 'چگونه نویسنده راشای شویم؟', href: '/' },
       { name: 'چگونه رمان اشتراکی بنویسیم؟', href: '/' },
     ],
     'لینک‌های مهم ۲': [
       { name: 'آموزش نویسندگی', href: '/' },
       { name: 'قوانین تایپ رمان', href: '/' },
-      { name: 'شرایط همکاری با راشا', href: '/' },
+      { name: 'شرایط همکاری با راشای', href: '/' },
     ]
   };
 
@@ -25,12 +25,12 @@ const Footer = () => {
             <Link to="/" className="mb-4">
               <img 
                 src="/lovable-uploads/74f8e3e3-3366-4e57-b48e-b84762133d2c.png" 
-                alt="راشا" 
+                alt="راشای" 
                 className="h-16 w-auto object-contain"
               />
             </Link>
             <p className="text-gray-600 mb-4 text-sm">
-              انجمن نویسندگان راشا، مکانی برای رشد و پیشرفت نویسندگان
+              انجمن نویسندگان راشای، مکانی برای رشد و پیشرفت نویسندگان
             </p>
             <div className="flex space-x-4 rtl:space-x-reverse">
               <a href="#" className="p-2 rounded-full bg-white shadow-sm border border-gray-200 hover:bg-primary hover:text-white transition-colors duration-200">
@@ -79,7 +79,7 @@ const Footer = () => {
         
         <div className="border-t border-gray-200 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-500 text-sm">
-            طراحی شده توسط تیم راشا - {currentYear} &copy;
+            طراحی شده توسط تیم راشای - {currentYear} &copy;
           </p>
           <div className="mt-4 md:mt-0 flex space-x-4 rtl:space-x-reverse text-sm">
             <Link to="/" className="text-gray-500 hover:text-primary transition-colors duration-200">

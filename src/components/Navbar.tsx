@@ -39,7 +39,7 @@ const Navbar = () => {
           <Link to="/" className="flex items-center">
             <img 
               src="/lovable-uploads/74f8e3e3-3366-4e57-b48e-b84762133d2c.png" 
-              alt="راشا" 
+              alt="راشای" 
               className="h-12 w-auto object-contain animate-fade-in"
             />
           </Link>

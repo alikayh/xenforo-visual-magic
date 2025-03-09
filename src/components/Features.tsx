@@ -51,10 +51,10 @@ const Features = () => {
           <div className="text-center mb-16">
             <Badge variant="outline" className="mb-4">امکانات انجمن</Badge>
             <h2 className="text-3xl md:text-4xl font-bold mb-6">
-              چرا به انجمن <span className="text-primary">راشا</span> بپیوندید؟
+              چرا به انجمن <span className="text-primary">راشای</span> بپیوندید؟
             </h2>
             <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-              انجمن راشا مجموعه‌ای از امکانات و خدمات را برای نویسندگان فراهم کرده است تا بتوانند در مسیر نویسندگی حرفه‌ای رشد کنند.
+              انجمن راشای مجموعه‌ای از امکانات و خدمات را برای نویسندگان فراهم کرده است تا بتوانند در مسیر نویسندگی حرفه‌ای رشد کنند.
             </p>
           </div>
 
