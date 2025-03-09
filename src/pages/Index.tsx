@@ -95,7 +95,7 @@ const Index = () => {
                 موضوعات <span className="text-primary">محبوب</span>
               </h2>
               <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-                دسته‌بندی‌های محبوب انجمن رانشا که بیشترین تعداد داستان را در خود جای داده‌اند.
+                دسته‌بندی‌های محبوب انجمن راشا که بیشترین تعداد داستان را در خود جای داده‌اند.
               </p>
             </div>
 
@@ -128,10 +128,10 @@ const Index = () => {
               <div className="absolute inset-0 bg-gradient-to-r from-primary to-purple-600"></div>
               <div className="relative z-10 p-12 md:p-16 text-center text-white">
                 <h2 className="text-3xl md:text-4xl font-bold mb-6">
-                  به جامعه نویسندگان رانشا بپیوندید
+                  به جامعه نویسندگان راشا بپیوندید
                 </h2>
                 <p className="text-lg md:text-xl opacity-90 mb-8 max-w-3xl mx-auto">
-                  با عضویت در انجمن رانشا، می‌توانید به خانواده بزرگ نویسندگان ایرانی بپیوندید و تجربیات خود را به اشتراک بگذارید.
+                  با عضویت در انجمن راشا، می‌توانید به خانواده بزرگ نویسندگان ایرانی بپیوندید و تجربیات خود را به اشتراک بگذارید.
                 </p>
                 <div className="flex flex-wrap gap-4 justify-center">
                   <Button 
